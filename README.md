@@ -69,7 +69,7 @@ The following dependencies are required for building and running the project:
 
 ## Download and Replace `radio_legacy.v`
 1. **Download the `radio_legacy.v` file**:
-   - Download the file from the following URL: [radio_legacy.v](https://drive.google.com/file/d/1jXr1t0q7j_bo5dVSHTVZvg0ekwtskPF0/view?usp=drive_link)
+   - Download the file from the following URL: [radio_legacy.v](https://drive.google.com/file/d/1jXr1t0q7j_bo5dVSHTVZvg0ekwtskPF0/view?usp=sharing)
 
 2. **Replace the existing `radio_legacy.v` file**:
    ```bash
