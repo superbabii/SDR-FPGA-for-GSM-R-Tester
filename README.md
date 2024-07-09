@@ -38,8 +38,8 @@ The following dependencies are required for building and running the project:
 ## Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/superbabii/FPGA-of-USRP-B2xx-board.git
-   cd FPGA-of-USRP-B2xx-board
+   git clone https://github.com/superbabii/SDR-FPGA-for-GSM-R-Tester.git
+   cd SDR-FPGA-for-GSM-R-Tester
    ```
 2. **Clone the EttusResearch/uhd repository**:
    ```bash
@@ -52,7 +52,7 @@ The following dependencies are required for building and running the project:
 3. **Replace the `fpga/usrp3/top/b2xxmini` folder**:
    ```bash
    rm -rf uhd/fpga/usrp3/top/b2xxmini
-   cp -r FPGA-of-USRP-B2xx-board/src uhd/fpga/usrp3/top/b2xxmini
+   cp -r SDR-FPGA-for-GSM-R-Tester/src uhd/fpga/usrp3/top/b2xxmini
    ```
 
 4. **Install the necessary dependencies**:
